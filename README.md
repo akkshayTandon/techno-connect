@@ -1,8 +1,5 @@
-# React + Vite
+# Technoconnect
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- This is a website I made for [Technonconnect IT Solutions Pvt. Ltd.](https://techno-connect-website.netlify.app/)
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Technoconnect is a privately-owned company, passionate about empowering innovations that shape a better future for businesses and individuals alike. Technoconnect IT Solutions software development services integrate with IT consulting services and enable custom-made software solutions for leading enterprises and startups around the globe helping business go online and redefine it to grow better.
