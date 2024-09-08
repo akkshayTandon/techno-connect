@@ -85,9 +85,9 @@
   }
 
   div {
-    color: rgb(53, 48, 30);
+    /* color: rgb(53, 48, 30); */
+    color: #fff2ec;
     line-height: 2.5rem;
-
   }
 }
 
